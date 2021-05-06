@@ -230,7 +230,7 @@
           </button>
 
           <!-- Topbar Search -->
-          <h3 class="text-primary">SISTEM INFORMASI KEPEGAWAIAN </h3> <h6><sup class="text-success">V.1</sup> | Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a>
+          <h3 class="text-primary">SISTEM INFORMASI KEPEGAWAIAN </h3> <h6><sup class="text-success">V.1</sup> | Repost by <a href='https://www.asepit.com/' title='asepit.com' target='_blank'>asepit.com</a>
           </h6>
 
           <!-- Topbar Navbar -->
